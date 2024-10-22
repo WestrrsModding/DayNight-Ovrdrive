@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:midnightium_block",
+    "tutorialmod:lucentium_block",
+    "tutorialmod:daylight",
+    "tutorialmod:nightlight",
+    "tutorialmod:overnightium_block",
+    "tutorialmod:overcentium_block"
+  ]
+}

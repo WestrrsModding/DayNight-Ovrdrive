@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "'#'",
+    "#~#",
+    "'#'"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "~": {
+      "item": "minecraft:diamond_block"
+    },
+    "'": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "id": "tutorialmod:overdrive_shard",
+    "count": 9
+  }
+}

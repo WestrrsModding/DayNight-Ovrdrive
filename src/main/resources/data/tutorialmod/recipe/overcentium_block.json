@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:overcentium_ingot"
+    }
+  },
+  "result": {
+    "id": "tutorialmod:overcentium_block",
+    "count": 1
+  }
+}

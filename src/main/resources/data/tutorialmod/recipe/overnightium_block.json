@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:overnightium_ingot"
+    }
+  },
+  "result": {
+    "id": "tutorialmod:overnightium_block",
+    "count": 1
+  }
+}
